@@ -1,0 +1,214 @@
+#title{
+  background-color: #ff4c68;
+  /* font-family: 'Ubuntu'; */
+  color:#ffff;
+
+}
+
+#features{
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+body{
+  font-family:"Montserrat";
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+h1{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.head{
+  font-family: "Poppins";
+  font-size: 3rem;
+  line-height: 1.5;
+  padding:7% 15%;
+}
+.h3{
+  font-family:"Poppins",sans-serif;
+  font-size:2rem;
+  font-weight: bolder;
+  color:#1f1f1f;
+  line-height:1.2;
+
+}
+p{
+  color: #8f8f8f;
+  /* text-align: center; */
+}
+
+/* navbar */
+.nav-item{
+  padding: 0 18px;
+  font-weight: bolder;
+}
+.nav-link{
+  font-size:1.2rem;
+  /* font-family: "Poppins"; */
+  font-wight:bold;
+
+}
+.navbar{
+  padding:0 0 4rem;
+}
+
+.navbar-brand{
+  font-size:2rem;
+  font-weight: bolder;
+}
+/* phone-image */
+
+.phone-image{
+  width:60%;
+  transform: rotate(25deg);
+
+  margin:5% 5% 5% 5%;
+
+
+}
+/* download button */
+
+.download-button{
+  margin:5% 3% 5%;
+
+}
+
+.col-lg-4{
+
+
+}
+.easy{
+  margin:7% 15% 7% 15%;
+  text-align: center;
+}
+.paragraph{
+  text-align:center;
+  font-family: 'Poppins',sans-serif;
+  color :#1f1f1f;
+  margin-top:0;
+  margin-bottom:1rem;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+
+
+/* testimonial */
+
+
+#testimonials{
+   /* padding:7% 15%; */
+   text-align: center;
+   background-color: #ef8172;
+   color:#fff;
+}
+
+.testimonial-image{
+  width:10%;
+  border-radius:100%;
+  margin:20px;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align:center;
+  padding-bottom:3%;
+
+}
+
+#pricing{
+  padding:3% 15%;
+}
+
+.press-logo{
+  width:15%;
+  margin:20px 20px 50px;
+}
+
+.carousel-item{
+  padding:7%, 15%;
+}
+.card{
+  text-align:center;
+}
+
+.free{
+  font-family: "Poppins", sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #1f1f1f;
+}
+
+.headings{
+  font-weight:bolder;
+  font-family:"Poppins",sans-serif;
+  color:#1f1f1f;
+}
+.center{
+  text-align:center;
+
+  font-family:"Poppins",sans-serif;
+  color:#1f1f1f;
+  font-weight: bold;
+}
+.plan{
+  font-family:"Poppins",sans-serif;
+  color:#1f1f1f;
+  font-weight: bold;
+
+}
+
+@media (max-width:1028px) {
+  #title{
+    text-align:center;
+  }
+  .phone-image{
+    position: static;
+  transform:rotate(0);
+}
+
+}
+
+.cta{
+  background-color: #ff4c68;
+  padding: 7% 15% 2%;
+  text-align: center;
+  font-family: "Poppins",sans-serif;
+  font-weight: bolder;
+  height:40%;
+  color:#1f1f1f;
+
+}
+
+.cta-1{
+  font-family: "Poppins",sans-serif;
+  color:#ffff;
+  font-weight: bolder;
+  font-size: 3rem;
+}
+
+#footer{
+  text-align: center;
+  padding:7% 15%;
+
+}
+
+.iconss{
+  padding:3% 3%;
+
+}
+.foot{
+  color:#1f1f1f;
+}
